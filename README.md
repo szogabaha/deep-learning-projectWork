@@ -7,7 +7,7 @@
 ## Abstract
 
 The goal of the project is to identify a person on a real life image, and then make a portrait of him / her in painting style.
-There will be 2 steps:
+There will be 3 steps:
  * Find the person
  * "Zoom in" on him / her
  * Make a portrait in a specific painting style
