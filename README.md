@@ -12,4 +12,4 @@ There will be 3 steps:
  * "Zoom in" on him / her
  * Make a portrait in a specific painting style
 
-For example: The input is an image of a building, where the entire building is shown, and a person stands in front of the frontdoor. The output is going to be a painting on which  the person is shown and the background it cropped to serve as a proper portrait background.
+For example: The input is an image of a building, where the entire building is shown, and a person stands in front of the frontdoor. The output is going to be a painting on which  the person is shown and the background is cropped to serve as a proper portrait background.
