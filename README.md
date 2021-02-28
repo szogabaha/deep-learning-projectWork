@@ -1,4 +1,4 @@
-# deep-learning-projectWork
+# Creating medeival portrait from modern pictures using GAN
 
 ## Authors
 *  Zsombor Élő
