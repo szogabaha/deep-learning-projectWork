@@ -1,4 +1,4 @@
-# Creating medeival portraits from modern pictures using GAN
+# Creating medieval portraits from modern pictures using GAN
 
 ## Authors
 *  Zsombor Élő
